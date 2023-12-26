@@ -1,2 +1,4 @@
-# Django-project
+## Django-project
 Django project for educational purposes
+
+## Build
